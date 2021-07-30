@@ -336,6 +336,19 @@
             "hnp": 13261
         },
         {
+            "name": "Cory Zue",
+            "url": "https://www.coryzue.com/",
+            "tags": [
+                "software",
+                "engineering",
+                "marketing",
+                "entrepreneurship",
+                "retro"
+            ],
+            "furl": "https://www.coryzue.com/feed.xml",
+            "hnp": 375
+        },
+        {
             "name": "Bert Hubert's writings",
             "url": "https://berthub.eu/articles/",
             "tags": [
